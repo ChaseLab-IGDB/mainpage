@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Immunology, neurobiology and edge-cutting technology of spatial transcriptomics and sequencing.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Immunology
+  - Neurobology
+  - Spatial transcriptomics and sequencing 
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Neurobiology
+      institution: Institute of Neuroscience
+      year: 2018
+    - course: BSc in Life Science
+      institution: Huazhong Agricultural University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,6 +70,6 @@ user_groups:
   - Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lihui Duan is a leading immunologist specializing in immune regulation and disease mechanisms. His research on follicular dendritic cells and memory B cell formation, as well as perivascular cells' role in neuroinflammation, has significantly advanced immunology and neuroimmunology, providing key insights into adaptive immunity and inflammatory signal transmission.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+段利辉是免疫学领域的杰出学者，专注于免疫调控与疾病机制研究。他的研究揭示了滤泡树突状细胞在记忆 B 细胞形成中的作用，以及周血管细胞在神经炎症信号传递中的关键机制，为免疫学和神经免疫学的发展提供了重要见解。
