@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        ChaseLab Research Group
+        The ChaseLab Research Group
       image:
         filename: welcome.jpg
       text: |
